@@ -3,6 +3,7 @@
 
 
 A simple password complexity checker that checks the strength of your password based on a computed complexity score. A strong password should have lowercase, uppercase, numbers and  special characters.
+It should be at least 8 characters long.
 
 
 ## Usage/Examples
